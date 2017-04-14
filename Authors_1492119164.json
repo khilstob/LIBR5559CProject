@@ -1,0 +1,1129 @@
+[
+  {
+    "gender": "female", 
+    "authorId": "10008", 
+    "name": "Susan Bowden", 
+    "authorAverageRating": "3.04", 
+    "firstBookId": "10008"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1022368", 
+    "name": "John B. Duncan", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "1022368"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1036203", 
+    "name": "Roger W. Andersen", 
+    "authorAverageRating": "3.75", 
+    "firstBookId": "1036203"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "104018", 
+    "name": "Jay A. Parry", 
+    "authorAverageRating": "4.38", 
+    "firstBookId": "104018"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1070959", 
+    "name": "Vincent Eri", 
+    "authorAverageRating": "3.50", 
+    "firstBookId": "1070959"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1071828", 
+    "name": "Charles A. Frazee", 
+    "authorAverageRating": "3.53", 
+    "firstBookId": "1071828"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1124726", 
+    "name": "E.C.R. Lorac", 
+    "authorAverageRating": "3.75", 
+    "firstBookId": "1124726"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1139931", 
+    "name": "R. Castro", 
+    "authorAverageRating": "4.22", 
+    "firstBookId": "1139931"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1170814", 
+    "name": "Caroline L. Herzenberg", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1170814"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1234812", 
+    "name": "George Steele", 
+    "authorAverageRating": "3.37", 
+    "firstBookId": "1234812"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1318939", 
+    "name": "Mark A. Putch", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1318939"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "133773", 
+    "name": "Sarah Bolme", 
+    "authorAverageRating": "4.30", 
+    "firstBookId": "133773"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "13385", 
+    "name": "Laurence Senelick", 
+    "authorAverageRating": "4.28", 
+    "firstBookId": "13385"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1350533", 
+    "name": "G. Andi Rhos", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "1350533"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1387538", 
+    "name": "Susan Deacy", 
+    "authorAverageRating": "3.82", 
+    "firstBookId": "1387538"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "144700", 
+    "name": "Rick Shelley", 
+    "authorAverageRating": "3.60", 
+    "firstBookId": "144700"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1531700", 
+    "name": "John E. Kolassa", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1531700"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1563853", 
+    "name": "Glenn McGrath", 
+    "authorAverageRating": "3.69", 
+    "firstBookId": "1563853"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1607875", 
+    "name": "Armand Denis", 
+    "authorAverageRating": "3.90", 
+    "firstBookId": "1607875"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1639596", 
+    "name": "Sidney H. Asch", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "1639596"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1652047", 
+    "name": "Aidan Foster-Carter", 
+    "authorAverageRating": "2.00", 
+    "firstBookId": "1652047"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1670718", 
+    "name": "Edith G. Stull", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1670718"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "16808", 
+    "name": "Peace Pilgrim", 
+    "authorAverageRating": "4.25", 
+    "firstBookId": "16808"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "172180", 
+    "name": "Wende Devlin", 
+    "authorAverageRating": "4.26", 
+    "firstBookId": "172180"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1737233", 
+    "name": "Gwen Davenport", 
+    "authorAverageRating": "3.80", 
+    "firstBookId": "1737233"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1761477", 
+    "name": "Frederic J. O'Hara", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1761477"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1840395", 
+    "name": "John D. Hawkes", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "1840395"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1872085", 
+    "name": "Armistead C. Gordon", 
+    "authorAverageRating": "3.00", 
+    "firstBookId": "1872085"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "1900156", 
+    "name": "Thom Young", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "1900156"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "191410", 
+    "name": "Simon Ramo", 
+    "authorAverageRating": "4.25", 
+    "firstBookId": "191410"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1948539", 
+    "name": "Jane Watkins", 
+    "authorAverageRating": "2.80", 
+    "firstBookId": "1948539"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "1970907", 
+    "name": "Jill Rheaume", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "1970907"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "205033", 
+    "name": "Peter Hinchliffe", 
+    "authorAverageRating": "4.54", 
+    "firstBookId": "205033"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "216186", 
+    "name": "Gary W. Lawson", 
+    "authorAverageRating": "4.17", 
+    "firstBookId": "216186"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "2291604", 
+    "name": "George L. Griscom", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "2291604"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "241284", 
+    "name": "John W. Schaub", 
+    "authorAverageRating": "3.93", 
+    "firstBookId": "241284"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "2583087", 
+    "name": "Frank S. Bloch", 
+    "authorAverageRating": "2.00", 
+    "firstBookId": "2583087"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "273326", 
+    "name": "Raymond Gantter", 
+    "authorAverageRating": "3.98", 
+    "firstBookId": "273326"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "2820063", 
+    "name": "K.C. West", 
+    "authorAverageRating": "3.43", 
+    "firstBookId": "2820063"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "2893553", 
+    "name": "Carolyn Wada", 
+    "authorAverageRating": "3.67", 
+    "firstBookId": "2893553"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "293262", 
+    "name": "Asma Barlas", 
+    "authorAverageRating": "4.22", 
+    "firstBookId": "293262"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "2936447", 
+    "name": "Gary L. Gibbs", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "2936447"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "2942479", 
+    "name": "Kristin Daniels", 
+    "authorAverageRating": "4.17", 
+    "firstBookId": "2942479"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "2956595", 
+    "name": "Dawn  Murphy", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "2956595"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "2966977", 
+    "name": "George Anthony Weller", 
+    "authorAverageRating": "2.00", 
+    "firstBookId": "2966977"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "2971633", 
+    "name": "Gregory W. Corder", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "2971633"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "2997024", 
+    "name": "Mickie Phipps", 
+    "authorAverageRating": "3.60", 
+    "firstBookId": "2997024"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "3079405", 
+    "name": "Mark S. Wagner", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "3079405"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "3123629", 
+    "name": "Christian Marks", 
+    "authorAverageRating": "4.33", 
+    "firstBookId": "3123629"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "312942", 
+    "name": "Annene Kaye", 
+    "authorAverageRating": "4.75", 
+    "firstBookId": "312942"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "3130911", 
+    "name": "Nicolas Sansone", 
+    "authorAverageRating": "4.07", 
+    "firstBookId": "3130911"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "316347", 
+    "name": "Gerald E. Wheeler", 
+    "authorAverageRating": "3.00", 
+    "firstBookId": "316347"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "341769", 
+    "name": "John R. Moroney", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "341769"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "3464350", 
+    "name": "Harry B. Nehls", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "3464350"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "3466991", 
+    "name": "Audrey Beth Stein", 
+    "authorAverageRating": "4.29", 
+    "firstBookId": "3466991"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "35053", 
+    "name": "Jerold J. Abrams", 
+    "authorAverageRating": "3.59", 
+    "firstBookId": "35053"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "357850", 
+    "name": "Carenza Lewis", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "357850"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "384702", 
+    "name": "Jim Rugg", 
+    "authorAverageRating": "3.83", 
+    "firstBookId": "384702"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "389399", 
+    "name": "Donna Hilbert", 
+    "authorAverageRating": "4.91", 
+    "firstBookId": "389399"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "389505", 
+    "name": "Dale Evans Rogers", 
+    "authorAverageRating": "4.23", 
+    "firstBookId": "389505"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "3909000", 
+    "name": "James A.G. Rehn", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "3909000"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "3929077", 
+    "name": "Francis C. Lau", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "3929077"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "398181", 
+    "name": "Frank R. Krajewski", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "398181"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4090656", 
+    "name": "Jeremy Parrish", 
+    "authorAverageRating": "2.38", 
+    "firstBookId": "4090656"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4153508", 
+    "name": "Philip Horky", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4153508"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4158539", 
+    "name": "John D. Whish", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4158539"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "417739", 
+    "name": "Susan Floyd", 
+    "authorAverageRating": "3.42", 
+    "firstBookId": "417739"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4213257", 
+    "name": "George R. Crafts", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4213257"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4229131", 
+    "name": "Kimberlie Smith", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "4229131"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4321833", 
+    "name": "David P. Ketelsen", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "4321833"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4365992", 
+    "name": "Jeffrey A. Stuart", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4365992"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4409104", 
+    "name": "Jeanne Buesser", 
+    "authorAverageRating": "4.71", 
+    "firstBookId": "4409104"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4453525", 
+    "name": "Jeff Kusner", 
+    "authorAverageRating": "4.20", 
+    "firstBookId": "4453525"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4667677", 
+    "name": "Kathleen E. Kelley", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4667677"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4681295", 
+    "name": "Jacqueline Day", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4681295"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4684772", 
+    "name": "Dave  Johnson", 
+    "authorAverageRating": "4.75", 
+    "firstBookId": "4684772"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4685176", 
+    "name": "Lesa Jones (Karmel Divine)", 
+    "authorAverageRating": "3.76", 
+    "firstBookId": "4685176"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "469684", 
+    "name": "Paul S Bradley", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "469684"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4739777", 
+    "name": "Angela Day", 
+    "authorAverageRating": "4.32", 
+    "firstBookId": "4739777"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4769790", 
+    "name": "Tara Benwell", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "4769790"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4779122", 
+    "name": "George W. Murray", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4779122"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4802100", 
+    "name": "Henry K. Simpson", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4802100"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4814761", 
+    "name": "Herbert O. Lang", 
+    "authorAverageRating": "3.00", 
+    "firstBookId": "4814761"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4861576", 
+    "name": "Emily Soroko", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "4861576"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4890226", 
+    "name": "C.K. Quarterman", 
+    "authorAverageRating": "3.83", 
+    "firstBookId": "4890226"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4897246", 
+    "name": "Margie Taylor Lisbona", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4897246"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4910558", 
+    "name": "Leo Mark", 
+    "authorAverageRating": "4.23", 
+    "firstBookId": "4910558"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4945939", 
+    "name": "Helen R. MacGregor", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "4945939"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "4970378", 
+    "name": "Connie Dunn", 
+    "authorAverageRating": "4.14", 
+    "firstBookId": "4970378"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "4988693", 
+    "name": "John Hodish Jr.", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "4988693"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "50314", 
+    "name": "James Hogg", 
+    "authorAverageRating": "3.67", 
+    "firstBookId": "50314"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5043259", 
+    "name": "Domenico Italo Composto-Hart", 
+    "authorAverageRating": "4.26", 
+    "firstBookId": "5043259"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5170389", 
+    "name": "Imar de Vries", 
+    "authorAverageRating": "3.67", 
+    "firstBookId": "5170389"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5306929", 
+    "name": "Lori Myles-Carullo", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5306929"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "540522", 
+    "name": "Mary Harwell Sayler", 
+    "authorAverageRating": "4.80", 
+    "firstBookId": "540522"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5433861", 
+    "name": "Roger E. Shepherd", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "5433861"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "544065", 
+    "name": "Laddie Lucas", 
+    "authorAverageRating": "4.20", 
+    "firstBookId": "544065"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5451682", 
+    "name": "Pyarelal Nayyar", 
+    "authorAverageRating": "3.50", 
+    "firstBookId": "5451682"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "545942", 
+    "name": "David Fiore", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "545942"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "548797", 
+    "name": "Phyllis A. Langton", 
+    "authorAverageRating": "4.83", 
+    "firstBookId": "548797"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5715360", 
+    "name": "Charles P. Wohlforth", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "5715360"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5732506", 
+    "name": "Ellen L. Shackelford", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5732506"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5751264", 
+    "name": "Layla Cole", 
+    "authorAverageRating": "3.45", 
+    "firstBookId": "5751264"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5769618", 
+    "name": "Vivian Peterson", 
+    "authorAverageRating": "4.83", 
+    "firstBookId": "5769618"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5781978", 
+    "name": "Anneke Feenstra", 
+    "authorAverageRating": "3.00", 
+    "firstBookId": "5781978"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5818602", 
+    "name": "Channing Allen", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5818602"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5835453", 
+    "name": "Katrina Love Senn", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "5835453"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5851560", 
+    "name": "John I. Akhile", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5851560"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "5876918", 
+    "name": "Marydee Sklar", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "5876918"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5954454", 
+    "name": "John C. Dimmick", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5954454"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "595876", 
+    "name": "Henry M. Field", 
+    "authorAverageRating": "3.25", 
+    "firstBookId": "595876"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5984172", 
+    "name": "Francis T. Morton", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5984172"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5986452", 
+    "name": "Charles Hunt", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "5986452"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "5987913", 
+    "name": "James Britt", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "5987913"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6033270", 
+    "name": "Francis A. Ryan", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "6033270"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6038537", 
+    "name": "Trish LeSage", 
+    "authorAverageRating": "3.71", 
+    "firstBookId": "6038537"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "604280", 
+    "name": "Joseph Trigoboff", 
+    "authorAverageRating": "2.73", 
+    "firstBookId": "604280"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6082174", 
+    "name": "Jack Emson", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6082174"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6179195", 
+    "name": "Peter Ballin", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6179195"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6225088", 
+    "name": "Sandra  Parker", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6225088"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "624861", 
+    "name": "Johnson Beharry", 
+    "authorAverageRating": "4.09", 
+    "firstBookId": "624861"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "639245", 
+    "name": "Frank A. Pellegrino", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "639245"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6421659", 
+    "name": "Charles  Harrison", 
+    "authorAverageRating": "3.20", 
+    "firstBookId": "6421659"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6428024", 
+    "name": "Paul E.  Lewis", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6428024"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "646532", 
+    "name": "John H.   Caldwell", 
+    "authorAverageRating": "3.00", 
+    "firstBookId": "646532"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6468150", 
+    "name": "Andrew   Scott", 
+    "authorAverageRating": "3.70", 
+    "firstBookId": "6468150"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6486152", 
+    "name": "Liz Betts", 
+    "authorAverageRating": "3.79", 
+    "firstBookId": "6486152"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6486988", 
+    "name": "Magalis Sandoval", 
+    "authorAverageRating": "4.50", 
+    "firstBookId": "6486988"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6496846", 
+    "name": "Kayci Reid", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "6496846"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6524812", 
+    "name": "Jane Gerencher", 
+    "authorAverageRating": "4.25", 
+    "firstBookId": "6524812"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6540588", 
+    "name": "Herman O. Lantang", 
+    "authorAverageRating": "4.08", 
+    "firstBookId": "6540588"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6548682", 
+    "name": "Jesse Prewitt", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "6548682"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6572495", 
+    "name": "Adele Carrington", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "6572495"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6581147", 
+    "name": "Christian B. Guyant", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6581147"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6627611", 
+    "name": "Daniel Farrelly", 
+    "authorAverageRating": "2.00", 
+    "firstBookId": "6627611"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "66333", 
+    "name": "Charles A. Riley II", 
+    "authorAverageRating": "3.93", 
+    "firstBookId": "66333"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6699959", 
+    "name": "Michael Thome", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "6699959"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6705402", 
+    "name": "Kenneth Horowitz", 
+    "authorAverageRating": "3.14", 
+    "firstBookId": "6705402"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "68032", 
+    "name": "Gary Taylor", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "68032"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6869288", 
+    "name": "Ryan Sprague", 
+    "authorAverageRating": "4.06", 
+    "firstBookId": "6869288"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6886004", 
+    "name": "William R. Hirons", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "6886004"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "6900190", 
+    "name": "Lis Paice", 
+    "authorAverageRating": "4.60", 
+    "firstBookId": "6900190"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "6971965", 
+    "name": "Landon Parham", 
+    "authorAverageRating": "3.92", 
+    "firstBookId": "6971965"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7026892", 
+    "name": "Tim Hoch", 
+    "authorAverageRating": "4.14", 
+    "firstBookId": "7026892"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7092011", 
+    "name": "Alex  Cameron", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "7092011"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7112765", 
+    "name": "Haydon Murray", 
+    "authorAverageRating": "4.00", 
+    "firstBookId": "7112765"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7119592", 
+    "name": "Henry B. Wolfe", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "7119592"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7123385", 
+    "name": "Paul Stepusin", 
+    "authorAverageRating": "4.56", 
+    "firstBookId": "7123385"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "715586", 
+    "name": "Joan Raysor", 
+    "authorAverageRating": "4.21", 
+    "firstBookId": "715586"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "7198170", 
+    "name": "Paul  Murphy", 
+    "authorAverageRating": "3.25", 
+    "firstBookId": "7198170"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "7212820", 
+    "name": "Frances O. Thomas", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "7212820"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "7230010", 
+    "name": "A. Elizabeth Zumchak", 
+    "authorAverageRating": "3.72", 
+    "firstBookId": "7230010"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "728365", 
+    "name": "David W. Packard", 
+    "authorAverageRating": "5.00", 
+    "firstBookId": "728365"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "72849", 
+    "name": "Jonathan Wylie", 
+    "authorAverageRating": "3.38", 
+    "firstBookId": "72849"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "738893", 
+    "name": "Derek Maul", 
+    "authorAverageRating": "4.42", 
+    "firstBookId": "738893"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "806495", 
+    "name": "Sandra Leigh", 
+    "authorAverageRating": "4.67", 
+    "firstBookId": "806495"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "897139", 
+    "name": "Jean Mead", 
+    "authorAverageRating": "3.61", 
+    "firstBookId": "897139"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "900082", 
+    "name": "Dora Russell", 
+    "authorAverageRating": "4.20", 
+    "firstBookId": "900082"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "923246", 
+    "name": "Stuart B. Kaufman", 
+    "authorAverageRating": "0.0", 
+    "firstBookId": "923246"
+  }, 
+  {
+    "gender": "female", 
+    "authorId": "93490", 
+    "name": "Lucy Pinney", 
+    "authorAverageRating": "3.42", 
+    "firstBookId": "93490"
+  }, 
+  {
+    "gender": "male", 
+    "authorId": "946363", 
+    "name": "Ernest J. Wilson III", 
+    "authorAverageRating": "3.88", 
+    "firstBookId": "946363"
+  }
+]
